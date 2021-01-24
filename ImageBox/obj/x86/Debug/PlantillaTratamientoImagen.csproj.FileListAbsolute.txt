@@ -1,0 +1,47 @@
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\ImageBox.exe.config
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\ImageBox.exe
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\ImageBox.pdb
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\Emgu.CV.UI.GL.dll
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\Emgu.CV.World.dll
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\ZedGraph.dll
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\Emgu.CV.UI.GL.xml
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\Emgu.CV.World.pdb
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\Emgu.CV.World.xml
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\ZedGraph.xml
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\PlantillaTratamientoImagen.csprojAssemblyReference.cache
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\ImageBox.Form1.resources
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\ImageBox.ParametrosOverlay.resources
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\ImageBox.ParametrosRange.resources
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\ImageBox.PopupVideo.resources
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\ImageBox.Properties.Resources.resources
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\PlantillaTratamientoImagen.csproj.GenerateResource.cache
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\PlantillaTratamientoImagen.csproj.CopyComplete
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\ImageBox.exe
+C:\Users\josea\Source\Repos\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\ImageBox.pdb
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\ImageBox.exe.config
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\ImageBox.exe
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\ImageBox.pdb
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\Emgu.CV.UI.dll
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\Emgu.CV.UI.GL.dll
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\Emgu.CV.World.dll
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\ZedGraph.dll
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\Emgu.CV.UI.xml
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\Emgu.CV.UI.GL.xml
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\Emgu.CV.World.pdb
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\Emgu.CV.World.xml
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\ZedGraph.xml
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\bin\x86\Debug\zh-CN\ZedGraph.resources.dll
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\PlantillaTratamientoImagen.csprojAssemblyReference.cache
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\ImageBox.Form1.resources
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\ImageBox.ParametrosOverlay.resources
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\ImageBox.ParametrosRange.resources
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\ImageBox.PopupVideo.resources
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\ImageBox.Properties.Resources.resources
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\PlantillaTratamientoImagen.csproj.GenerateResource.cache
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\PlantillaTratamientoImagen.csproj.CoreCompileInputs.cache
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\PlantillaTratamientoImagen.csproj.CopyComplete
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\ImageBox.exe
+D:\HP Laptop Backup\source\repos\Tratamiento de Imagen\PlantillaTratamientoImagen\ImageBox\obj\x86\Debug\ImageBox.pdb
